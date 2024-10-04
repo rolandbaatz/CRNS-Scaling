@@ -1,0 +1,66 @@
+File name,Station,Country,Affiliation,Detector Typ,Latitude,Longitude,Altitude,Main land use,Meanairtemperature,Meanannualprecipitation,Climate classification (Koeppen&Geiger),Time period start,Time period end
+AAC001,Aas,Norway,Norwegian Water Resources and Energy Directorate (NVE),-,59.664,10.762,72,Grassland,6.2,1240,Dfb,9.2016,7.2021
+ACC001,Acheleschwaig,Germany ,TERENO/Karlsruher Institut fuer Technologie (KIT),CRS2000/B,47.666,10.994,867,Grassland,7.0,1805,Dfb,6.2017,3.2021
+AGCK003,Agia,Greece,Pinios Hydrologic Observatory (PHO),CRS2000/B,39.755,22.717,1032,Shrubland,12.5,1003,Csb,3.2017,today
+ALC001,Alento1,Italy,Uni Napoli,CRS2000/B,40.311,15.229,671,Forest,13.6,1255,Csa,2.2016,8.2021
+ALC002,Alento2,Italy,Uni Napoli,CRS2000/B,40.365,15.184,453,Orchard,15.4,1215,Csa,2.2016,8.2021
+BBC001,Boernchen,Germany ,GFZ Potsdam,CRS2000/B,50.819,13.8,571,Cropland,8.9,986,Dfb,6.2019,6.2021
+BOC001,Bornheim,Germany ,ADAPTER/Forschungszentrum Juelich (FZJ),Styx V1,50.785,6.956,67,Cropland,10.8,1071,Cfb,10.202,today
+BUC001,Bussoleno,Italy,Unii Polit Turin,Finapp,45.118,7.162,625,Forest,12.6,792,Cfb,11.202,today
+CAC001,Calderona1,Spain,Uni Valencia,CRS2000/B,39.708,-0.457,785,Shrubland,16.6,525,BSk,10.2016,6.2021
+CAC002,Calderona2,Spain,Uni Valencia,CRS2000/B,39.708,-0.457,789,Shrubland,16.6,525,BSk,7.2019,6.2021
+CBC001,Cakit Basin,Turkey,Middle East Technical University,CRS2000/B,37.515,34.498,1459,Shrubland,9.8,338,BSk,11.2016,7.2019
+CRC001,Crolles,France,Centre d'Etudes Spatiales de la Biosph�re (CESBIO),CRS1000,45.281,5.901,230,Grassland,7.5,900,Cfb,7.2016,6.2018
+CUC001,Cunnersdorf,Germany,Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS1000,51.37,12.557,140,Cropland,10.5,868,Dfb,6.2016,today
+DEC001,Derlo,Poland,Uni Warsaw,CRS1000,52.17,23.369,129,Grassland,7.5,550,Dfb,4.2013,6.2021
+ELC001,Elsick,Scotland,Uni Aberdeen,CRS1000/B,57.039,-2.186,95,Cropland,12,800,Cfb,11.2015,12.202
+ESC001,Esterberg,Germany ,TERENO/Karlsruher Institut fuer Technologie (KIT),CRS2000/B,47.516,11.158,1267,Grassland,4.3,2062,Dfc,6.2017,3.2021
+EUC001,Euston,England,COSMOS-UK,CRS2000/B,52.383,0.785,18,Grassland,10,600,Cfb,3.2016,6.2021
+FEC001,Fendt,Germany ,TERENO/Karlsruher Institut fuer Technologie (KIT),CRS2000/B,47.832,11.06,595,Gassland,8.4,1630,Dfb,6.2015,3.2021
+FIC001,Fincham,England,COSMOS-UK,CRS2000/B,52.618,0.511,15,Cropland,10.5,613,Cfb,6.2017,6.2021
+FSC001,Fuerstensee,Germany,TERENO/GFZ,CRS1000,53.319,13.122,66,Grassland,9.7,580,Dfb,1.2014,1.2021
+GBC001,Grosses Bruch,Germany,TERENO/Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS1000,52.03,11.105,80,Cropland,9.9,845,Dfb,7.2014,today
+GLC001,Gludsted,Denmark,The Danish Hydrological Observatory (HOBE),CRS1000/B,56.071,9.334,86,Plantation,8.2,1050,Dfb,2.2013,6.2021
+GRC001,Graswang,Germany ,TERENO/Karlsruher Institut fuer Technologie (KIT),CRS2000/B,47.571,11.033,863,Grassland,5.4,1948,Dfb,6.2017,3.2021
+GSC001,Glensaugh,Scotland,COSMOS-UK,CRS2000/B,56.914,-2.562,399,Moorland,7,1109,Cfb,5.2014,6.2021
+HAC001,Harrild,Denmark,The Danish Hydrological Observatory (HOBE),CRS1000/B,56.022,9.155,66,Heathland,8.2,1050,Dfb,3.2014,6.2021
+HDC001,Hordorf,Germany,TERENO/Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS1000,51.997,11.179,82,Cropland,10.0,818,Dfb,6.202,today
+HGC000,Harzgerode,Germany,TERENO/Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS2000,51.652,11.137,405,Grassland,7.6,582,Dfb,11.2019,5.2021
+HHC001,Serrahn,Germany,TERENO/GFZ,CRS1000,53.339,13.174,96,Forest,9.7,580,Dfb,8.2016,12.202
+HOC001,Hohes Holz,Germany,TERENO/Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS2000/B,52.09,11.226,217,Forest,10.0,820,Dfb,8.2014,today
+JEC001,Jena,Germany ,Uni Potsdam,CRS2000/B,50.951,11.625,140,Grassland,9.9,612,Dfb,3.2015,11.2017
+LBC001,Lindenberg,Germany,Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS2000,52.165,14.121,72,Grassland,9.2,576,Dfb,6.2021,today
+LEC001,Leutasch,Austria ,Uni Innsbruck,CRS2000/B,47.376,11.162,1111,Grassland,4.0,2155,Dfc,12.2018,today
+LUC001,Lullington,England ,COSMOS-UK,CRS2000/B,50.794,0.189,199,Heath,10,825,Cfb,12.2014,6.2021
+MEBCK001,Merzenhausen,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.93,6.297,91,Cropland,10.3,718,Cfb,2.2011,today
+NOC001,Noervenich,Germany ,ADAPTER/Forschungszentrum Juelich (FZJ),Styx V1,50.781,6.537,140,Cropland,10.5,1030,Cfb,11.202,today
+OLC001,Olocau,Spain,Helmholtz-Zentrum fuer Umweltforschung (UFZ),CRS1000,39.707,-0.517,415,Shrubland,16.2,544,BSk,1.2017,9.202
+PEC001,Petzenkirchen,Austria ,International Atomic Energy Agency (IAEA),CRS1000/B,48.155,15.148,278,Cropland,10.0,1065,Dfb,12.2013,today
+RIC001,Rietholzbach,Switzerland,ETH Zuerich,CRS1000,47.381,8.993,755,Grassland,7.1,1460,Dfb,12.201,2.202
+ROC001,Rollesbroich1,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.622,6.304,515,Grassland,7,1018,Dfb,5.2011,today
+ROC002,Rollesbroich2,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.624,6.305,506,Grassland,7,1018,Dfb,7.2012,today
+RUBCDKR001,Schoeneseiffen,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS2000B,50.515,6.376,611,Grassland,7,870,Dfb,8.2015,today
+RUBCK002,Gevenich,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.989,6.324,107,Cropland,10.3,718,Cfb,7.2011,today
+RUBCK003,Ruraue,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.862,6.427,100,Grassland,10.3,718,Cfb,11.2011,today
+RUBCK004,Wildenrath,Germany,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,51.133,6.169,72,Forest,10.3,722,Cfb,4.2012,today
+RUC004,Heinsberg,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,51.041,6.104,58,Cropland,10.3,722,Cfb,9.2011,today
+RUC005,Kall,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.501,6.526,505,Grassland,8,857,Dfb,9.2011,today
+RUC006,Aachen,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.799,6.025,232,Cropland,10.3,865,Cfb,1.2012,today
+RUC007,Kleinhau1,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS2000B,50.722,6.372,374,Grassland,9,614,Cfb,8.2015,today
+RUC008,Kleinhau2,Germany ,MOSES/Forschungszentrum Juelich (FZJ),CRS2000B,50.718,6.399,394,Reforestation,9,614,Cfb,6.202,today
+SAC001,Saerheim,Norway,Norwegian Water Resources and Energy Directorate (NVE),-,58.761,5.651,91,Grassland,7.7,2500,Cfb,9.2017,7.2021
+SCC001,Schaefertal1,Germany,Uni Potsdam,CRS1000,51.657,11.043,425,Cropland,9.9,951,Dfb,10.201,9.2019
+SCC004,Schaefertal4,Germany,Uni Potsdam,CRS1000,51.655,11.049,399,Cropland,9.9,951,Dfb,9.201,6.202
+SEC001,Selhausen,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS2000/B,50.866,6.447,101,Cropland,10.3,718,Cfb,3.2015,today
+SHC001,Sheepdrove1,England,Uni Bristol,CRS 2000/B,51.515,-1.458,197,Cropland,9.5,815,Cfb,7.2015,12.2019
+SHC002,Sheepdrove2,England,Uni Bristol,CRS 2000/B,51.528,-1.468,204,Cropland,9.5,815,Cfb,6.2015,12.2019
+SHC003,Sheepdrove3,England,Uni Bristol,CRS 2000/B,51.523,-1.486,182,Cropland,9.5,815,Cfb,7.2015,7.2019
+TOC001,Toulouse,France,Centre d'Etudes Spatiales de la Biosph�re (CESBIO),CRS1000,43.385,1.292,188,Grassland,13.6,1028,Cfa,2.2011,8.2018
+VOC001,Voulund,Denmark,The Danish Hydrological Observatory (HOBE),CRS1000/B,56.036,9.156,67,Cropland,8.2,1050,Dfb,2.2013,6.2021
+WAC001,Wildacker,Germany,TERENO/GFZ,CRS1000,53.33,13.199,96,Forest,9.7,580,Dfb,7.2013,12.202
+WEC001,Weisssee,Austria ,Uni Innsbruck,"CRS1000, CRS2000/B",46.873,10.714,2464,Sparse Vegetation,-2.7,1547,ET,2.2014,today
+WUC001,Wuestebach1,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS1000,50.503,6.333,605,Forest,7,1180,Dfb,2.2011,today
+WUC002,Wuestebach2,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS2000B,50.505,6.331,607,Forest,7,1180,Dfb,6.2014,today
+WUC003,Wuestebach3,Germany ,TERENO/Forschungszentrum Juelich (FZJ),CRS2000B,50.503,6.336,605,Reforestation,7,1180,Dfb,3.202,today
+ZEC001,Zerbst,Germany,Helmholtz-Zentrum fuer Umweltforschung (UFZ),2x CRS1000,51.993,12.126,74,Grassland�,10.4,847,Dfb,6.202,today
+ZUC001,Zuelpich,Germany ,ADAPTER/Forschungszentrum Juelich (FZJ),Styx V1,50.692,6.717,158,Cropland,10.4,1009,Cfb,9.202,today
